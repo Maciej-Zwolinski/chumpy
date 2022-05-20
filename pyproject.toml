@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "chumpy"
+version = "0.71"
+description = "Forked For poetry unification"
+authors = ["mattloper@github"]
+
+
+[build-system]
+requires = ["setuptools", "wheel", "pip"]
+build-backend = "setuptools.build_meta:__legacy__"
